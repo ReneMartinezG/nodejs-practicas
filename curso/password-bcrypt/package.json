@@ -1,0 +1,16 @@
+{
+  "name": "password-bcrypt",
+  "version": "1.0.0",
+  "description": " primeros pasos de bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "ReneMArtinez",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1"
+  }
+}
